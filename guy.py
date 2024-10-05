@@ -1,5 +1,3 @@
-# Ask the user for their age
-age = input("Please enter your age: ")
+baller=(input("Who is your favourite footballer? "))
+print(f"Why is {baller} your favourite footballer?")
 
-# Print the message with the user's age
-print(f"You are {age} years old.")
